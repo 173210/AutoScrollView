@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>AutoScrollView</id>
+    <version>1.0.0.0</version>
+    <authors>173210</authors>
+    <owners>173210</owners>
+    <licenseUrl>https://www.mozilla.org/en-US/MPL/2.0/</licenseUrl>
+    <projectUrl>http://github.com/173210/AutoScrollView</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ScrollView for Xamarin.Forms which automatically scrolls</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>xamarin forms xamarinforms xamarin.forms</tags>
+    <dependencies>
+      <dependency id="Xamarin.Forms" version="2.2.0" />
+    </dependencies>
+  </metadata>
+</package>
